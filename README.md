@@ -77,9 +77,12 @@ The circuits used to generate a frequency modulation must vary the frequency of 
 * Execute the code.
 * If any Error, correct it in code and execute again.
 * Verify the generated waveform using Tabulation and Model Waveform.
+<img width="1600" height="853" alt="WhatsApp Image 2026-09-25 at 1 59 20 PM" src="https://github.com/user-attachments/assets/2e6315b1-9b46-427b-af36-0f42f987fd58" />
 
 ---
 
 ## MODEL GRAPH
+<img width="1600" height="967" alt="WhatsApp Image 2026-09-25 at 1 59 42 PM" src="https://github.com/user-attachments/assets/f447fa9a-4b92-4d91-a1a5-fd5ac2d8f4d2" />
+
 
 
